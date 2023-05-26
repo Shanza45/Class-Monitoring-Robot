@@ -1,5 +1,5 @@
 # Class-Monitoring-Robot :
-### Introduction:                                                                                                                                                         The proposed system will inspect the classes automatically. It will monitor each class and send email to head that teacher is taking class or not. This robot is capable of following line and avoiding hurdles by using Arduino, IR sensors and Ultra sonic sensors. 
+### Introduction:                                                                                                                                                         The proposed system will inspect the classes automatically. It will monitor each class and send email to head that teacher is taking class or not. This robot is capable of following line by using Aurdino and IR sensors. 
 #### FOR ESP32 CAM:
 For this program, we will be utilizing OpenCV and Visual Studio. OpenCV is a free and open-source image processing library that is widely used not only in business but also in research and development. Microsoft Visual Studio is an IDE designed for various kinds of software development that includes completion tools, compilers, and other features to make the software development process easier.
                 The primary heavy program will run on the server which will be our computer, or a Raspberry Pi can be used as a server. We will not only identify the person in this attendance system, but we will also save the person's information in a Microsoft Excel file. Furthermore, the amount of time they spent in the frame is documented in an excel sheet. A system is also developed to send email to head.
@@ -77,7 +77,6 @@ Select the board and port.-Board: “Arduino Nano”
 ### Hardware Requirements:
 - Arduino Nano
 * IR sensor
-- Ultrasonic sensors
 * Moter Driver
 - Wheels
 * Male-male jumper wires                                                                                                           
