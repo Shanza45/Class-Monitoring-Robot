@@ -84,4 +84,4 @@ Select the board and port.-Board: “Arduino Nano”
  * Bettery                                                                                                                                                        
  - Dc gear motors                                                                                                                             
 ### Connection between hardware components: 
- ![image](https://user-images.githubusercontent.com/126508260/222678305-2087572a-d243-4bb4-858c-62de77560120.png)
+ ![image](https://robu.in/wp-content/uploads/2021/05/final-connection-1024x576.png)
